@@ -1,0 +1,38 @@
+[
+	{
+		"ColorName":"Purple",
+		"StripColor":0
+	},
+	{
+		"ColorName":"Pink",
+		"StripColor":1
+	},
+	{
+		"ColorName":"Red",
+		"StripColor":2
+	},
+	{
+		"ColorName":"Orange",
+		"StripColor":3
+	},
+	{
+		"ColorName":"Yellow",
+		"StripColor":4
+	},
+	{
+		"ColorName":"Blue",
+		"StripColor":5
+	},
+	{
+		"ColorName":"Light Blue",
+		"StripColor":6
+	},
+	{
+		"ColorName":"Green",
+		"StripColor":7
+	},
+	{
+		"ColorName":"Blank",
+		"StripColor":8
+	}
+]
