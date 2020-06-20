@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dronenb/monitormix_electron.git"
   },
   "author": "Benjamin Dronen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dronenb/monitormix_electron/issues"
   },
